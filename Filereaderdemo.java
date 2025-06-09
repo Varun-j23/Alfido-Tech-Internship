@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class FileReaderDemo {
+public class Filereaderdemo {
     public static void main(String[] args) {
         String fileName = "example.txt"; // Specify the file name
 
